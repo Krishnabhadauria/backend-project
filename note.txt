@@ -1,3 +1,0 @@
-krishnabhadauria02_db_user
-qnGEDfUCUJ0gQi9z
-mongodb+srv://krishnabhadauria02_db_user:qnGEDfUCUJ0gQi9z@cluster0.m6x0nti.mongodb.net/
